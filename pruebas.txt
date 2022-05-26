@@ -1,0 +1,780 @@
+Sending SYN message
+Receiving SYN+ACK message
+Starting InitiateTransferPhase
+--------------------------------------
+tiempo (s): 0.5
+increasing cwnd: 3
+tiempo (s): 1.0
+increasing cwnd: 4
+tiempo (s): 1.5
+increasing cwnd: 5
+tiempo (s): 2.0
+increasing cwnd: 6
+tiempo (s): 2.5
+increasing cwnd: 7
+tiempo (s): 3.0
+increasing cwnd: 8
+tiempo (s): 3.5
+increasing cwnd: 9
+tiempo (s): 4.0
+increasing cwnd: 10
+tiempo (s): 4.5
+increasing cwnd: 11
+tiempo (s): 5.0
+increasing cwnd: 12
+tiempo (s): 5.5
+increasing cwnd: 13
+tiempo (s): 6.0
+increasing cwnd: 14
+tiempo (s): 6.5
+increasing cwnd: 15
+tiempo (s): 7.0
+increasing cwnd: 16
+cwnd is greater than lws,starting ScalableTCPcongestionAvoidance
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.01
+sst: 100
+tiempo (s): 7.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.020000000000003
+sst: 100
+tiempo (s): 7.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.030000000000005
+sst: 100
+tiempo (s): 8.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.040000000000006
+sst: 100
+tiempo (s): 8.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.050000000000008
+sst: 100
+tiempo (s): 9.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.06000000000001
+sst: 100
+tiempo (s): 9.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.07000000000001
+sst: 100
+tiempo (s): 10.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.080000000000013
+sst: 100
+tiempo (s): 10.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.090000000000014
+sst: 100
+tiempo (s): 11.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.100000000000016
+sst: 100
+tiempo (s): 11.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.110000000000017
+sst: 100
+tiempo (s): 12.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.12000000000002
+sst: 100
+tiempo (s): 12.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.13000000000002
+sst: 100
+tiempo (s): 13.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.140000000000022
+sst: 100
+tiempo (s): 13.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.150000000000023
+sst: 100
+tiempo (s): 14.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.160000000000025
+sst: 100
+tiempo (s): 14.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.170000000000027
+sst: 100
+tiempo (s): 15.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.180000000000028
+sst: 100
+tiempo (s): 15.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.19000000000003
+sst: 100
+tiempo (s): 16.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.20000000000003
+sst: 100
+tiempo (s): 16.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.210000000000033
+sst: 100
+tiempo (s): 17.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.220000000000034
+sst: 100
+tiempo (s): 17.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.230000000000036
+sst: 100
+tiempo (s): 18.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.240000000000038
+sst: 100
+tiempo (s): 18.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.25000000000004
+sst: 100
+tiempo (s): 19.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.26000000000004
+sst: 100
+tiempo (s): 19.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.270000000000042
+sst: 100
+tiempo (s): 20.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.280000000000044
+sst: 100
+tiempo (s): 20.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.290000000000045
+sst: 100
+tiempo (s): 21.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.300000000000047
+sst: 100
+tiempo (s): 21.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.31000000000005
+sst: 100
+tiempo (s): 22.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.32000000000005
+sst: 100
+tiempo (s): 22.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.33000000000005
+sst: 100
+tiempo (s): 23.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.340000000000053
+sst: 100
+tiempo (s): 23.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.350000000000055
+sst: 100
+tiempo (s): 24.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.360000000000056
+sst: 100
+tiempo (s): 24.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.370000000000058
+sst: 100
+tiempo (s): 25.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.38000000000006
+sst: 100
+tiempo (s): 25.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.39000000000006
+sst: 100
+tiempo (s): 26.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.400000000000063
+sst: 100
+tiempo (s): 26.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.410000000000064
+sst: 100
+tiempo (s): 27.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.420000000000066
+sst: 100
+tiempo (s): 27.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.430000000000067
+sst: 100
+tiempo (s): 28.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.44000000000007
+sst: 100
+tiempo (s): 28.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.45000000000007
+sst: 100
+tiempo (s): 29.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.460000000000072
+sst: 100
+tiempo (s): 29.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.470000000000073
+sst: 100
+tiempo (s): 30.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.480000000000075
+sst: 100
+tiempo (s): 30.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.490000000000077
+sst: 100
+tiempo (s): 31.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.500000000000078
+sst: 100
+tiempo (s): 31.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.51000000000008
+sst: 100
+tiempo (s): 32.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.52000000000008
+sst: 100
+tiempo (s): 32.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.530000000000083
+sst: 100
+tiempo (s): 33.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.540000000000084
+sst: 100
+tiempo (s): 33.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.550000000000086
+sst: 100
+tiempo (s): 34.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.560000000000088
+sst: 100
+tiempo (s): 34.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.57000000000009
+sst: 100
+tiempo (s): 35.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.58000000000009
+sst: 100
+tiempo (s): 35.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.590000000000092
+sst: 100
+tiempo (s): 36.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.600000000000094
+sst: 100
+tiempo (s): 36.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.610000000000095
+sst: 100
+tiempo (s): 37.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.620000000000097
+sst: 100
+tiempo (s): 37.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.6300000000001
+sst: 100
+tiempo (s): 38.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.6400000000001
+sst: 100
+tiempo (s): 38.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.6500000000001
+sst: 100
+tiempo (s): 39.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.660000000000103
+sst: 100
+tiempo (s): 39.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.670000000000105
+sst: 100
+tiempo (s): 40.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.680000000000106
+sst: 100
+tiempo (s): 40.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.690000000000108
+sst: 100
+tiempo (s): 41.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.70000000000011
+sst: 100
+tiempo (s): 41.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.71000000000011
+sst: 100
+tiempo (s): 42.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.720000000000113
+sst: 100
+tiempo (s): 42.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.730000000000114
+sst: 100
+tiempo (s): 43.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.740000000000116
+sst: 100
+tiempo (s): 43.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.750000000000117
+sst: 100
+tiempo (s): 44.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.76000000000012
+sst: 100
+tiempo (s): 44.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.77000000000012
+sst: 100
+tiempo (s): 45.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.780000000000122
+sst: 100
+tiempo (s): 45.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.790000000000123
+sst: 100
+tiempo (s): 46.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.800000000000125
+sst: 100
+tiempo (s): 46.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.810000000000127
+sst: 100
+tiempo (s): 47.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.820000000000128
+sst: 100
+tiempo (s): 47.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.83000000000013
+sst: 100
+tiempo (s): 48.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.84000000000013
+sst: 100
+tiempo (s): 48.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.850000000000133
+sst: 100
+tiempo (s): 49.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.860000000000134
+sst: 100
+tiempo (s): 49.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.870000000000136
+sst: 100
+tiempo (s): 50.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.880000000000138
+sst: 100
+tiempo (s): 50.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.89000000000014
+sst: 100
+tiempo (s): 51.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.90000000000014
+sst: 100
+tiempo (s): 51.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.910000000000142
+sst: 100
+tiempo (s): 52.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.920000000000144
+sst: 100
+tiempo (s): 52.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.930000000000145
+sst: 100
+tiempo (s): 53.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.940000000000147
+sst: 100
+tiempo (s): 53.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.95000000000015
+sst: 100
+tiempo (s): 54.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.96000000000015
+sst: 100
+tiempo (s): 54.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.97000000000015
+sst: 100
+tiempo (s): 55.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.980000000000153
+sst: 100
+tiempo (s): 55.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.990000000000155
+sst: 100
+tiempo (s): 56.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.000000000000156
+sst: 100
+tiempo (s): 56.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.010000000000158
+sst: 100
+tiempo (s): 57.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.02000000000016
+sst: 100
+tiempo (s): 57.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.03000000000016
+sst: 100
+tiempo (s): 58.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.040000000000163
+sst: 100
+tiempo (s): 58.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.050000000000164
+sst: 100
+tiempo (s): 59.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.060000000000166
+sst: 100
+tiempo (s): 59.5
+Se recibio un ACK, incrementando cwnd
+Loss detected ***************
+cwnd: 14.936250000000147
+sst: 14.936250000000147
+tiempo (s): 60.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 15.936250000000147
+sst: 14.936250000000147
+tiempo (s): 60.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.936250000000147
+sst: 14.936250000000147
+tiempo (s): 61.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.94625000000015
+sst: 14.936250000000147
+tiempo (s): 61.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.95625000000015
+sst: 14.936250000000147
+tiempo (s): 62.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.96625000000015
+sst: 14.936250000000147
+tiempo (s): 62.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.976250000000153
+sst: 14.936250000000147
+tiempo (s): 63.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.986250000000155
+sst: 14.936250000000147
+tiempo (s): 63.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.996250000000156
+sst: 14.936250000000147
+tiempo (s): 64.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.006250000000158
+sst: 14.936250000000147
+tiempo (s): 64.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.01625000000016
+sst: 14.936250000000147
+tiempo (s): 65.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.02625000000016
+sst: 14.936250000000147
+tiempo (s): 65.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.036250000000162
+sst: 14.936250000000147
+tiempo (s): 66.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.046250000000164
+sst: 14.936250000000147
+tiempo (s): 66.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.056250000000166
+sst: 14.936250000000147
+tiempo (s): 67.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.066250000000167
+sst: 14.936250000000147
+tiempo (s): 67.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.07625000000017
+sst: 14.936250000000147
+tiempo (s): 68.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.08625000000017
+sst: 14.936250000000147
+tiempo (s): 68.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.096250000000172
+sst: 14.936250000000147
+tiempo (s): 69.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.106250000000173
+sst: 14.936250000000147
+tiempo (s): 69.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.116250000000175
+sst: 14.936250000000147
+tiempo (s): 70.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.126250000000176
+sst: 14.936250000000147
+tiempo (s): 70.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.136250000000178
+sst: 14.936250000000147
+tiempo (s): 71.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.14625000000018
+sst: 14.936250000000147
+tiempo (s): 71.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.15625000000018
+sst: 14.936250000000147
+tiempo (s): 72.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.166250000000183
+sst: 14.936250000000147
+tiempo (s): 72.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.176250000000184
+sst: 14.936250000000147
+tiempo (s): 73.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.186250000000186
+sst: 14.936250000000147
+tiempo (s): 73.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.196250000000187
+sst: 14.936250000000147
+tiempo (s): 74.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.20625000000019
+sst: 14.936250000000147
+tiempo (s): 74.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.21625000000019
+sst: 14.936250000000147
+tiempo (s): 75.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.226250000000192
+sst: 14.936250000000147
+tiempo (s): 75.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.236250000000194
+sst: 14.936250000000147
+tiempo (s): 76.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.246250000000195
+sst: 14.936250000000147
+tiempo (s): 76.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.256250000000197
+sst: 14.936250000000147
+tiempo (s): 77.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.2662500000002
+sst: 14.936250000000147
+tiempo (s): 77.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.2762500000002
+sst: 14.936250000000147
+tiempo (s): 78.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.2862500000002
+sst: 14.936250000000147
+tiempo (s): 78.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.296250000000203
+sst: 14.936250000000147
+tiempo (s): 79.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 17.306250000000205
+sst: 14.936250000000147
+tiempo (s): 79.5
+Se recibio un ACK, incrementando cwnd
+Timeout ************
+cwnd: 2
+sst: 15.15171875000018
+tiempo (s): 80.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 3
+sst: 15.15171875000018
+tiempo (s): 80.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 4
+sst: 15.15171875000018
+tiempo (s): 81.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 5
+sst: 15.15171875000018
+tiempo (s): 81.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 6
+sst: 15.15171875000018
+tiempo (s): 82.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 7
+sst: 15.15171875000018
+tiempo (s): 82.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 8
+sst: 15.15171875000018
+tiempo (s): 83.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 9
+sst: 15.15171875000018
+tiempo (s): 83.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 10
+sst: 15.15171875000018
+tiempo (s): 84.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 11
+sst: 15.15171875000018
+tiempo (s): 84.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 12
+sst: 15.15171875000018
+tiempo (s): 85.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 13
+sst: 15.15171875000018
+tiempo (s): 85.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 14
+sst: 15.15171875000018
+tiempo (s): 86.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 15
+sst: 15.15171875000018
+tiempo (s): 86.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16
+sst: 15.15171875000018
+tiempo (s): 87.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.01
+sst: 15.15171875000018
+tiempo (s): 87.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.020000000000003
+sst: 15.15171875000018
+tiempo (s): 88.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.030000000000005
+sst: 15.15171875000018
+tiempo (s): 88.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.040000000000006
+sst: 15.15171875000018
+tiempo (s): 89.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.050000000000008
+sst: 15.15171875000018
+tiempo (s): 89.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.06000000000001
+sst: 15.15171875000018
+tiempo (s): 90.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.07000000000001
+sst: 15.15171875000018
+tiempo (s): 90.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.080000000000013
+sst: 15.15171875000018
+tiempo (s): 91.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.090000000000014
+sst: 15.15171875000018
+tiempo (s): 91.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.100000000000016
+sst: 15.15171875000018
+tiempo (s): 92.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.110000000000017
+sst: 15.15171875000018
+tiempo (s): 92.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.12000000000002
+sst: 15.15171875000018
+tiempo (s): 93.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.13000000000002
+sst: 15.15171875000018
+tiempo (s): 93.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.140000000000022
+sst: 15.15171875000018
+tiempo (s): 94.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.150000000000023
+sst: 15.15171875000018
+tiempo (s): 94.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.160000000000025
+sst: 15.15171875000018
+tiempo (s): 95.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.170000000000027
+sst: 15.15171875000018
+tiempo (s): 95.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.180000000000028
+sst: 15.15171875000018
+tiempo (s): 96.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.19000000000003
+sst: 15.15171875000018
+tiempo (s): 96.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.20000000000003
+sst: 15.15171875000018
+tiempo (s): 97.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.210000000000033
+sst: 15.15171875000018
+tiempo (s): 97.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.220000000000034
+sst: 15.15171875000018
+tiempo (s): 98.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.230000000000036
+sst: 15.15171875000018
+tiempo (s): 98.5
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.240000000000038
+sst: 15.15171875000018
+tiempo (s): 99.0
+Se recibio un ACK, incrementando cwnd
+cwnd: 16.25000000000004
+sst: 15.15171875000018
+tiempo (s): 99.5
+-------------------------------------
